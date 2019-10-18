@@ -12,14 +12,18 @@ Currently, the datadoctor:
 - Produces email with cleaned file, errors and updates performed
 
 When a CSV, suchs as, 
-<img width="595" alt="Screen Shot 2019-10-18 at 12 13 59 PM" src="https://user-images.githubusercontent.com/56731948/67123089-29385900-f1a4-11e9-81f8-a0bc658ba7ad.png">
+<br/>
+<img width="593" alt="Screen Shot 2019-10-18 at 12 49 44 PM" src="https://user-images.githubusercontent.com/56731948/67123671-d52e7400-f1a5-11e9-9aab-68b95f2e0b58.png">
+<br/>
+is submitted in the typeform, found [here](https://zd843515.typeform.com/to/uZwXq5) the tray workflow is trigger. Once the workflow has run...<br/>
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/56731948/67123425-21c57f80-f1a5-11e9-9d1e-b2bbacfe750c.gif)<br/>
 
 
-
-is submitted to the typeform, found [here](https://zd843515.typeform.com/to/uZwXq5) the tray workflow is trigger. Once the workflow has ran the user will receive an email with the identified errors, a list of updates made, and the cleaned sheet. Like so, 
-
-<img width="381" alt="Screen Shot 2019-10-18 at 12 20 53 PM" src="https://user-images.githubusercontent.com/56731948/67123084-276e9580-f1a4-11e9-9725-e5a980f1bb59.png">
-
+the user will receive an email with the identified errors, a list of updates made, and the cleaned sheet. Like so, <br/>
+&nbsp;
+<img width="863" alt="Screen Shot 2019-10-18 at 12 20 21 PM" src="https://user-images.githubusercontent.com/56731948/67123465-3dc92100-f1a5-11e9-8646-62886371e1b5.png">
+&nbsp;<br/>
+<img width="381" alt="Screen Shot 2019-10-18 at 12 20 53 PM" src="https://user-images.githubusercontent.com/56731948/67123084-276e9580-f1a4-11e9-9725-e5a980f1bb59.png"><br/>
 
 
 In a futurestate, the datadoctor will:
